@@ -1,0 +1,13 @@
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csprojResolveAssemblyReference.cache
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDanToc.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDiem.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmHeDaoTao.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmLop.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmMonHoc.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmPhongHoc.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.Cache
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
